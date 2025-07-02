@@ -56,7 +56,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/AO-5002/AO-5002/output/snake.svg" alt="Snake animation" />
-
-###
