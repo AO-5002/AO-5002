@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm from Austin, TX.<br><br>🏫 I'm an incoming Junior at The University of Texas at Dallas.<br>📚 I'm currently learning microservice architecture.<br>⚡ In my free time I like to play billards, do music production, and hang out with friends.</p>
+<p align="left">I'm from Austin, TX.<br><br>🏫 I'm an incoming Junior at The University of Texas at Dallas.<br>📚 I'm currently learning iOS mobile development.<br>⚡ In my free time I like to play billards, do music production, and hang out with friends.</p>
 
 ###
 
