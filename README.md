@@ -24,7 +24,8 @@
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="72"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge"  height="72" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"  height="72"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge"  height="72" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900&style=for-the-badge" height="72" />
+
 </div>
 
 
