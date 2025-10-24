@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I like to play billiards, do music production, and hang out with friends.<br>📚 I'm currently learning about Linux, and diving deep into C-programming.<br>🎯 Goals: Get an internship 😭</p>
+<p align="left">✨ I like to play billiards, do music production, and hang out with friends.<br>📚 I'm currently learning about Linux, and diving deep into C-programming.<br>🎯 Goals: Learn more about stats and abstract algebra.</p>
 
 ###
 
