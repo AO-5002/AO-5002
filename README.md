@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I like to play billiards, do music production, and hang out with friends.<br>📚 I'm currently learning more about data science and data engineering.</p>
+<p>I like to build stuff.</p>
 
 ###
 
